@@ -10,8 +10,8 @@ namespace ContinuousMeanCalculator
     {
         static void Main(string[] args)
         {
-            int count = 0;     // Number of values entered
-            double mean = 0;    // Sum of all values entered
+            int count = 0;     
+            double mean = 0;    
 
             Console.WriteLine("Continuous Mean Value Calculator");
             Console.WriteLine(" Please Enter numbers or enter 'x' to exit");
